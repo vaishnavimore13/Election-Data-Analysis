@@ -3,6 +3,13 @@
 ## 📌 Overview
 This project analyzes Indian election data using Python, SQL, Power BI, and data visualization techniques to identify voting trends and party performance.
 
+## 🏛️ States Analyzed
+- Uttar Pradesh
+- Maharashtra
+- West Bengal
+- Bihar
+- Tamil Nadu
+
 ## 🎯 Objective
 - Analyze election data
 - Find voting patterns
@@ -22,9 +29,6 @@ This project analyzes Indian election data using Python, SQL, Power BI, and data
 - Voting trend analysis
 - Party performance insights
 - Interactive dashboard
-
-## 📷 Dashboard Screenshot
-(Add screenshot here)
 
 ## 👩‍💻 Author
 Vaishnavi More
