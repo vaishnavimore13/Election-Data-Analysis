@@ -1,4 +1,4 @@
-# Election Data Analysis
+# Election Data Analysis & visualization 
 
 ## 📌 Overview
 This project analyzes Indian election data using Python, SQL, Power BI, and data visualization techniques to identify voting trends and party performance.
